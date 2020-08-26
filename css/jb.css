@@ -1,4 +1,40 @@
 body {
 	margin:0px;
-	
+	font-family: Helvetica Neue, Arial;
+	background-color: #FAFAFA;
+}
+header {
+	background-color: #9F3636; 
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2 {
+	font-family: 'Lexend Peta', cursive;
+}
+header h1 {
+	color: #FAFAFA;
+	font-size: 45px;
+}
+header img {
+	border-radius: 170px;
+	width: 300px;
+	border: 9px solid #222222;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0px 20px;
+	background-color: #FAFAFA;
+}
+
+main img {
+	max-width: 100%;
+}
+
+h2 {
+	font-size: 30px;
+	color:#9F3636;
 }
